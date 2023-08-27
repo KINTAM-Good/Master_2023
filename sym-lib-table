@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Slave2022-rescue")(type "KiCad")(uri "${KIPRJMOD}/lib/NUCLEO-L432KC/Slave2022-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "MPU6050")(type "KiCad")(uri "${KIPRJMOD}/lib/MPU6050.kicad_sym")(options "")(descr ""))
+)
